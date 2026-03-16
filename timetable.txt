@@ -1,0 +1,6 @@
+1st, C101, 09:00, 10:00, Occupied
+1st, C102, 10:00, 11:30, Vacant
+2nd, C201, 14:00, 16:00, Occupied
+2nd, C202, 11:30, 13:00, Occupied
+3rd, C301, 16:00, 17:30, Vacant
+Ground, L001, 08:00, 09:00, Occupied

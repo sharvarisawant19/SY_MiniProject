@@ -1,0 +1,7 @@
+Prof. Monica Charate, Professor,Computer Science and Technology , First Floor - Office 101, +919876543210
+Prof. Kumud D. Wasnik, HOD, Computer Science and Technology, 2nd Floor - HOD CST, a.khan@college.edu
+Prof. Sumedh N Pundkar, Professor, Computer Science and Technology, 3rd Floor - Office 302, 022-12345678
+Prof. Sonal Kadam, Professor,Computer Science and Technology, 3st Floor -lab, library@college.edu
+Dr. Yogesh Nerkar, Principle, Principle, Ground Floor - Office, 0987654321
+Prof. Yashwant Kale,Admission Incharge, Ground Floor - Office, yashwantkale@gmail.com
+Prof. Vilas Kharat,Placement Incharge,Ground Floor - Placement cell, vilaskharat@gmail.com
